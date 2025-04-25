@@ -1,0 +1,35 @@
+Vivado Simulator 2025.1 - Simulation Report
+--------------------------------------------
+INFO: Starting simulation for project "CryptoEngine"
+INFO: Running Timing Analysis...
+
+TIMING REPORT:
+--------------------------------------------
+Design Name: crypto_unit_top
+Clock Name: clk_secure
+Setup Time: 2.4 ns  Hold Time: 1.1 ns  Clock Delay: 3.1 ns
+Slack: 0.3 ns  Max Frequency: 410 MHz
+Path Delay: 2.0 ns  Data Arrival Time: 1.6 ns  Data Required Time: 2.0 ns
+
+INFO: Running Power Analysis...
+
+POWER REPORT:
+--------------------------------------------
+Total Dynamic Power: 11.8 mW  
+Total Static Power: 4.0 mW
+Leakage Power: 1.2 mW  Switching Power: 5.7 mW  Internal Power: 4.9 mW
+VDD Supply: 1.1V  Current Drawn: 8.76 mA
+
+INFO: Running Utilization Analysis...
+
+UTILIZATION REPORT:
+--------------------------------------------
+LUTs Used: 15700 / 50000 (31.4%)
+Flip-Flops Used: 8800 / 25000 (35.2%)
+BRAM Blocks Used: 60 / 200 (30%)
+DSP Blocks Used: 18 / 100 (18%)
+Routing Utilization: 45%
+
+INFO: Simulation completed successfully.
+--------------------------------------------
+End of Report
