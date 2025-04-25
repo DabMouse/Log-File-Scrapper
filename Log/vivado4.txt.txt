@@ -1,0 +1,35 @@
+Vivado Simulator 2025.1 - Simulation Report
+--------------------------------------------
+INFO: Starting simulation for project "DSP_Pipeline"
+INFO: Running Timing Analysis...
+
+TIMING REPORT:
+--------------------------------------------
+Design Name: dsp_accel_top
+Clock Name: clk_dsp
+Setup Time: 1.8 ns  Hold Time: 0.7 ns  Clock Delay: 3.5 ns
+Slack: 0.6 ns  Max Frequency: 470 MHz
+Path Delay: 1.7 ns  Data Arrival Time: 1.1 ns  Data Required Time: 1.7 ns
+
+INFO: Running Power Analysis...
+
+POWER REPORT:
+--------------------------------------------
+Total Dynamic Power: 9.0 mW  
+Total Static Power: 2.8 mW
+Leakage Power: 0.6 mW  Switching Power: 4.1 mW  Internal Power: 4.3 mW
+VDD Supply: 1.2V  Current Drawn: 7.42 mA
+
+INFO: Running Utilization Analysis...
+
+UTILIZATION REPORT:
+--------------------------------------------
+LUTs Used: 10800 / 50000 (21.6%)
+Flip-Flops Used: 5500 / 25000 (22%)
+BRAM Blocks Used: 40 / 200 (20%)
+DSP Blocks Used: 22 / 100 (22%)
+Routing Utilization: 38%
+
+INFO: Simulation completed successfully.
+--------------------------------------------
+End of Report
