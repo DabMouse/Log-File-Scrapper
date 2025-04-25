@@ -64,7 +64,7 @@ This tool automates the analysis of Vivado-generated TCL logs in VLSI design wor
 
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/Log-File-Scrapper.git
+   git clone https://github.com/DabMouse/Log-File-Scrapper.git
    cd Log-File-Scrapper
    
 
